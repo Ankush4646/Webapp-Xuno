@@ -405,7 +405,6 @@ export class BasePage {
 async scrollPage(
   pixels: number
 ) {
-
   await this.page
     .mouse
     .wheel(
