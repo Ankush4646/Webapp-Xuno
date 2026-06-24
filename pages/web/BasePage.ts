@@ -274,19 +274,6 @@ export class BasePage {
 
   }
 
-  // ========================================
-  // VERIFY DISABLED
-  // ========================================
-
-  async verifyDisabled(
-    locator: Locator
-  ) {
-
-    await expect(
-      locator
-    ).toBeDisabled();
-
-  }
 
   // ========================================
   // FILE UPLOAD
