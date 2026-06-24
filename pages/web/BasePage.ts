@@ -247,20 +247,6 @@ export class BasePage {
   }
 
   // ========================================
-  // VERIFY HIDDEN
-  // ========================================
-
-  async verifyHidden(
-    locator: Locator
-  ) {
-
-    await expect(
-      locator
-    ).toBeHidden();
-
-  }
-
-  // ========================================
   // VERIFY ENABLED
   // ========================================
 
