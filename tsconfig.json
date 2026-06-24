@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+
+    "target": "ESNext",
+
+    "module": "NodeNext",
+
+    "moduleResolution": "NodeNext",
+
+    "resolveJsonModule": true,
+
+    "allowJs": true,
+
+    "esModuleInterop": true,
+
+    "strict": false,
+
+    "types": [
+      "node",
+      "@playwright/test"
+    ]
+  },
+
+  "include": [
+    "tests",
+    "pages",
+    "flows",
+    "utils",
+    "platform",
+    "api"
+  ]
+}

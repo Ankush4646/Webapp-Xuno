@@ -1,0 +1,518 @@
+[2026-05-12 14:11:29] INFO: Starting registration flow
+[2026-05-12 14:11:30] INFO: Registering user: Test+sender38@xuno.co
+[2026-05-12 14:11:31] INFO: Verifying email OTP
+[2026-05-12 14:11:31] INFO: Setting account password
+[2026-05-12 14:11:32] INFO: Navigating to dashboard
+[2026-05-12 14:11:36] INFO: Verifying phone number: 3475407762
+[2026-05-12 14:11:38] INFO: Submitting phone OTP
+[2026-05-12 14:11:39] INFO: Registration flow completed successfully
+[2026-05-12 14:12:53] INFO: Starting registration flow
+[2026-05-12 14:12:54] INFO: Registering user: Test+sender12@xuno.co
+[2026-05-12 14:12:54] INFO: Verifying email OTP
+[2026-05-12 14:12:55] INFO: Setting account password
+[2026-05-12 14:12:56] INFO: Navigating to dashboard
+[2026-05-12 14:13:00] INFO: Verifying phone number: 5163437887
+[2026-05-12 14:13:01] INFO: Submitting phone OTP
+[2026-05-12 14:13:03] INFO: Registration flow completed successfully
+[2026-05-12 14:16:31] INFO: Starting registration flow
+[2026-05-12 14:16:31] INFO: Registering user: Test+sender86@xuno.co
+[2026-05-12 14:16:32] INFO: Verifying email OTP
+[2026-05-12 14:16:33] INFO: Setting account password
+[2026-05-12 14:16:34] INFO: Navigating to dashboard
+[2026-05-12 14:16:38] INFO: Verifying phone number: 4153195844
+[2026-05-12 14:16:39] INFO: Submitting phone OTP
+[2026-05-12 14:16:40] INFO: Registration flow completed successfully
+[2026-05-12 14:42:57] INFO: Starting registration flow
+[2026-05-12 14:42:58] INFO: Registering user: Test+sender89@xuno.co
+[2026-05-12 14:42:59] INFO: Verifying email OTP
+[2026-05-12 14:43:00] INFO: Setting account password
+[2026-05-12 14:43:01] INFO: Navigating to dashboard
+[2026-05-12 14:43:05] INFO: Verifying phone number: 7863948945
+[2026-05-12 14:43:06] INFO: Submitting phone OTP
+[2026-05-12 14:43:09] INFO: Registration flow completed successfully
+[2026-05-12 14:43:09] INFO: Opening KYC flow
+[2026-05-12 14:43:09] INFO: Verifying terms page
+[2026-05-12 15:15:51] INFO: Starting registration flow
+[2026-05-12 15:15:52] INFO: Registering user: Test+sender89@xuno.co
+[2026-05-12 15:15:53] INFO: Verifying email OTP
+[2026-05-12 15:18:32] INFO: Starting registration flow
+[2026-05-12 15:18:33] INFO: Registering user: test+sender151831@xuno.co
+[2026-05-12 15:18:33] INFO: Verifying email OTP
+[2026-05-12 15:18:35] INFO: Setting account password
+[2026-05-12 15:18:35] INFO: Navigating to dashboard
+[2026-05-12 15:18:39] INFO: Verifying phone number: 2124284237
+[2026-05-12 15:18:41] INFO: Submitting phone OTP
+[2026-05-12 15:18:44] INFO: Registration flow completed successfully
+[2026-05-12 15:18:44] INFO: Opening KYC flow
+[2026-05-12 15:18:44] INFO: Verifying Terms and Conditions page
+[2026-05-12 15:22:03] INFO: Starting registration flow
+[2026-05-12 15:22:03] INFO: Registering user: test+sender15222@xuno.co
+[2026-05-12 15:22:04] INFO: Verifying email OTP
+[2026-05-12 15:22:05] INFO: Setting account password
+[2026-05-12 15:22:06] INFO: Navigating to dashboard
+[2026-05-12 15:22:10] INFO: Verifying phone number: 6172837732
+[2026-05-12 15:22:11] INFO: Submitting phone OTP
+[2026-05-12 15:22:14] INFO: Registration flow completed successfully
+[2026-05-12 15:22:14] INFO: Opening KYC flow
+[2026-05-12 15:22:14] INFO: Verifying Terms and Conditions page
+[2026-05-12 15:22:15] INFO: Validating all legal document links
+[2026-05-12 15:25:41] INFO: Starting registration flow
+[2026-05-12 15:25:41] INFO: Registering user: test+sender152540@xuno.co
+[2026-05-12 15:25:42] INFO: Verifying email OTP
+[2026-05-12 15:25:43] INFO: Setting account password
+[2026-05-12 15:25:44] INFO: Navigating to dashboard
+[2026-05-12 15:25:48] INFO: Verifying phone number: 3158469284
+[2026-05-12 15:25:49] INFO: Submitting phone OTP
+[2026-05-12 15:25:52] INFO: Registration flow completed successfully
+[2026-05-12 15:25:52] INFO: Opening KYC flow
+[2026-05-12 15:25:52] INFO: Verifying Terms and Conditions page
+[2026-05-12 15:25:54] INFO: Validating all legal document links
+[2026-05-12 15:28:38] INFO: Starting registration flow
+[2026-05-12 15:28:39] INFO: Registering user: test+sender152837@xuno.co
+[2026-05-12 15:28:39] INFO: Verifying email OTP
+[2026-05-12 15:28:40] INFO: Setting account password
+[2026-05-12 15:28:41] INFO: Navigating to dashboard
+[2026-05-12 15:28:44] INFO: Verifying phone number: 6172981507
+[2026-05-12 15:28:47] INFO: Submitting phone OTP
+[2026-05-12 15:28:49] INFO: Registration flow completed successfully
+[2026-05-12 15:28:49] INFO: Opening KYC flow
+[2026-05-12 15:28:49] INFO: Verifying Terms and Conditions page
+[2026-05-12 15:28:51] INFO: Validating all legal document links
+[2026-05-12 15:28:56] INFO: Accepting terms and conditions
+[2026-05-12 15:28:57] INFO: Submitting KYC terms page
+[2026-05-12 17:03:39] INFO: Starting registration flow
+[2026-05-12 17:03:39] INFO: Registering user: test+sender17338@xuno.co
+[2026-05-12 17:03:40] INFO: Verifying email OTP
+[2026-05-12 17:03:41] INFO: Setting account password
+[2026-05-12 17:03:42] INFO: Navigating to dashboard
+[2026-05-12 17:03:45] INFO: Verifying phone number: 3155796290
+[2026-05-12 17:03:48] INFO: Submitting phone OTP
+[2026-05-12 17:03:50] INFO: Registration flow completed successfully
+[2026-05-12 17:05:01] INFO: Starting registration flow
+[2026-05-12 17:05:02] INFO: Registering user: test+sender1750@xuno.co
+[2026-05-12 17:05:02] INFO: Verifying email OTP
+[2026-05-12 17:05:03] INFO: Setting account password
+[2026-05-12 17:05:04] INFO: Navigating to dashboard
+[2026-05-12 17:05:08] INFO: Verifying phone number: 3153595197
+[2026-05-12 17:05:10] INFO: Submitting phone OTP
+[2026-05-12 17:05:13] INFO: Registration flow completed successfully
+[2026-05-12 17:05:22] INFO: Starting registration flow
+[2026-05-12 17:05:22] INFO: Registering user: test+sender17519@xuno.co
+[2026-05-12 17:05:22] INFO: Starting registration flow
+[2026-05-12 17:05:23] INFO: Registering user: test+sender17520@xuno.co
+[2026-05-12 17:09:16] INFO: Starting registration flow
+[2026-05-12 17:09:16] INFO: Registering user: test+sender17915@xuno.co
+[2026-05-12 17:09:17] INFO: Verifying email OTP
+[2026-05-12 17:09:18] INFO: Setting account password
+[2026-05-12 17:09:19] INFO: Navigating to dashboard
+[2026-05-12 17:09:23] INFO: Verifying phone number: 6463949010
+[2026-05-12 17:09:24] INFO: Submitting phone OTP
+[2026-05-12 17:09:26] INFO: Registration flow completed successfully
+[2026-05-12 17:09:34] INFO: Starting registration flow
+[2026-05-12 17:09:35] INFO: Registering user: test+sender17933@xuno.co
+[2026-05-12 17:09:37] INFO: Starting registration flow
+[2026-05-12 17:09:38] INFO: Registering user: test+sender17936@xuno.co
+[2026-05-12 17:13:17] INFO: Starting registration flow
+[2026-05-12 17:13:18] INFO: Registering user: test+sender171316@xuno.co
+[2026-05-12 17:13:19] INFO: Verifying email OTP
+[2026-05-12 17:13:20] INFO: Setting account password
+[2026-05-12 17:13:21] INFO: Navigating to dashboard
+[2026-05-12 17:13:24] INFO: Verifying phone number: 9175378508
+[2026-05-12 17:13:25] INFO: Submitting phone OTP
+[2026-05-12 17:13:28] INFO: Registration flow completed successfully
+[2026-05-12 17:13:35] INFO: Starting registration flow
+[2026-05-12 17:13:36] INFO: Registering user: test+sender171334@xuno.co
+[2026-05-12 17:15:20] INFO: Starting registration flow
+[2026-05-12 17:15:20] INFO: Registering user: test+sender171512@xuno.co
+[2026-05-12 17:15:23] INFO: Verifying email OTP
+[2026-05-12 17:15:23] INFO: Setting account password
+[2026-05-12 17:15:25] INFO: Navigating to dashboard
+[2026-05-12 17:15:29] INFO: Verifying phone number: 5163169771
+[2026-05-12 17:15:30] INFO: Submitting phone OTP
+[2026-05-12 17:15:33] INFO: Registration flow completed successfully
+[2026-05-12 17:15:39] INFO: Starting registration flow
+[2026-05-12 17:15:39] INFO: Opening KYC flow
+[2026-05-12 17:15:40] INFO: Registering user: test+sender171538@xuno.co
+[2026-05-12 17:15:44] INFO: Verifying Terms and Conditions page
+[2026-05-12 17:19:13] INFO: Starting registration flow
+[2026-05-12 17:19:13] INFO: Registering user: test+sender171912@xuno.co
+[2026-05-12 17:19:14] INFO: Verifying email OTP
+[2026-05-12 17:19:15] INFO: Setting account password
+[2026-05-12 17:19:16] INFO: Navigating to dashboard
+[2026-05-12 17:19:20] INFO: Verifying phone number: 7867953903
+[2026-05-12 17:19:22] INFO: Submitting phone OTP
+[2026-05-12 17:19:24] INFO: Registration flow completed successfully
+[2026-05-12 17:19:29] INFO: Opening KYC flow
+[2026-05-12 17:19:32] INFO: Verifying Terms and Conditions page
+[2026-05-12 17:19:34] INFO: Validating all legal document links
+[2026-05-12 17:19:40] INFO: Accepting terms and conditions
+[2026-05-12 17:19:40] INFO: Submitting KYC terms page
+[2026-05-12 17:33:29] INFO: Starting registration flow
+[2026-05-12 17:33:30] INFO: Registering user: test+sender173328@xuno.co
+[2026-05-12 17:33:30] INFO: Verifying email OTP
+[2026-05-12 17:33:31] INFO: Setting account password
+[2026-05-12 17:33:32] INFO: Navigating to dashboard
+[2026-05-12 17:33:35] INFO: Verifying phone number: 6176726002
+[2026-05-12 17:33:37] INFO: Submitting phone OTP
+[2026-05-12 17:33:39] INFO: Registration flow completed successfully
+[2026-05-12 17:33:46] INFO: Starting registration flow
+[2026-05-12 17:33:47] INFO: Registering user: test+sender173345@xuno.co
+[2026-05-12 17:33:49] INFO: Opening KYC flow
+[2026-05-12 17:33:49] INFO: Verifying email OTP
+[2026-05-12 17:33:50] INFO: Setting account password
+[2026-05-12 17:33:52] INFO: Navigating to dashboard
+[2026-05-12 17:33:52] INFO: Verifying Terms and Conditions page
+[2026-05-12 17:33:54] INFO: Validating all legal document links
+[2026-05-12 17:33:59] INFO: Verifying phone number: 4158769074
+[2026-05-12 17:34:02] INFO: Submitting phone OTP
+[2026-05-12 17:34:04] INFO: Registration flow completed successfully
+[2026-05-12 17:34:05] INFO: Accepting terms and conditions
+[2026-05-12 17:34:05] INFO: Submitting KYC terms page
+[2026-05-12 17:36:31] INFO: Starting registration flow
+[2026-05-12 17:36:31] INFO: Registering user: test+sender173630@xuno.co
+[2026-05-12 17:36:32] INFO: Verifying email OTP
+[2026-05-12 17:36:33] INFO: Setting account password
+[2026-05-12 17:36:34] INFO: Navigating to dashboard
+[2026-05-12 17:36:37] INFO: Verifying phone number: 6177284419
+[2026-05-12 17:36:39] INFO: Submitting phone OTP
+[2026-05-12 17:36:41] INFO: Registration flow completed successfully
+[2026-05-12 17:36:46] INFO: Starting registration flow
+[2026-05-12 17:36:47] INFO: Registering user: test+sender173645@xuno.co
+[2026-05-12 17:36:48] INFO: Verifying email OTP
+[2026-05-12 17:36:49] INFO: Setting account password
+[2026-05-12 17:36:50] INFO: Navigating to dashboard
+[2026-05-12 17:36:53] INFO: Verifying phone number: 2128924566
+[2026-05-12 17:36:54] INFO: Submitting phone OTP
+[2026-05-12 17:36:57] INFO: Registration flow completed successfully
+[2026-05-12 17:37:02] INFO: Opening KYC flow
+[2026-05-12 17:37:05] INFO: Verifying Terms and Conditions page
+[2026-05-12 17:37:07] INFO: Validating all legal document links
+[2026-05-12 17:37:14] INFO: Accepting terms and conditions
+[2026-05-12 17:37:14] INFO: Submitting KYC terms page
+[2026-05-12 17:46:09] INFO: Starting registration flow
+[2026-05-12 17:46:09] INFO: Registering user: test+sender17466@xuno.co
+[2026-05-12 17:46:09] INFO: Verifying email OTP
+[2026-05-12 17:46:10] INFO: Setting account password
+[2026-05-12 17:46:11] INFO: Navigating to dashboard
+[2026-05-12 17:46:14] INFO: Verifying phone number: 6175939372
+[2026-05-12 17:46:16] INFO: Submitting phone OTP
+[2026-05-12 17:46:18] INFO: Registration flow completed successfully
+[2026-05-12 17:46:24] INFO: Opening KYC flow
+[2026-05-12 17:46:27] INFO: Verifying Terms and Conditions page
+[2026-05-12 17:46:30] INFO: Validating all legal document links
+[2026-05-12 17:46:37] INFO: Accepting terms and conditions
+[2026-05-12 17:46:37] INFO: Submitting KYC terms page
+[2026-05-13 12:16:20] INFO: Starting registration flow
+[2026-05-13 12:16:20] INFO: Registering user: test+sender121618@xuno.co
+[2026-05-13 12:16:20] INFO: Verifying email OTP
+[2026-05-13 12:16:21] INFO: Setting account password
+[2026-05-13 12:16:22] INFO: Navigating to dashboard
+[2026-05-13 12:16:27] INFO: Verifying phone number: 2137899491
+[2026-05-13 12:16:29] INFO: Submitting phone OTP
+[2026-05-13 12:16:32] INFO: Registration flow completed successfully
+[2026-05-13 12:36:13] INFO: Starting registration flow
+[2026-05-13 12:36:14] INFO: Registering user: test+sender123612@xuno.co
+[2026-05-13 12:36:15] INFO: Verifying email OTP
+[2026-05-13 12:36:15] INFO: Setting account password
+[2026-05-13 12:36:16] INFO: Navigating to dashboard
+[2026-05-13 12:36:19] INFO: Verifying phone number: 4083724736
+[2026-05-13 12:36:22] INFO: Submitting phone OTP
+[2026-05-13 12:36:24] INFO: Registration flow completed successfully
+[2026-05-13 12:36:31] INFO: Opening KYC flow
+[2026-05-13 12:39:31] INFO: Starting registration flow
+[2026-05-13 12:39:31] INFO: Registering user: test+sender123930@xuno.co
+[2026-05-13 12:39:32] INFO: Verifying email OTP
+[2026-05-13 12:39:33] INFO: Setting account password
+[2026-05-13 12:39:34] INFO: Navigating to dashboard
+[2026-05-13 12:39:36] INFO: Verifying phone number: 2138445166
+[2026-05-13 12:39:38] INFO: Submitting phone OTP
+[2026-05-13 12:39:40] INFO: Registration flow completed successfully
+[2026-05-13 12:39:47] INFO: Opening KYC flow
+[2026-05-13 12:39:50] INFO: Verifying Terms and Conditions page
+[2026-05-13 12:39:52] INFO: Validating all legal document links
+[2026-05-13 12:51:36] INFO: Starting registration flow
+[2026-05-13 12:51:37] INFO: Registering user: test+sender125135@xuno.co
+[2026-05-13 12:51:38] INFO: Verifying email OTP
+[2026-05-13 12:51:39] INFO: Setting account password
+[2026-05-13 12:51:41] INFO: Navigating to dashboard
+[2026-05-13 12:51:46] INFO: Verifying phone number: 3478198969
+[2026-05-13 12:51:47] INFO: Submitting phone OTP
+[2026-05-13 12:51:49] INFO: Registration flow completed successfully
+[2026-05-13 12:51:56] INFO: Opening KYC flow
+[2026-05-13 12:51:59] INFO: Verifying Terms and Conditions page
+[2026-05-13 12:52:01] INFO: Validating all legal document links
+[2026-05-13 12:52:06] INFO: Accepting terms and conditions
+[2026-05-13 12:52:06] INFO: Submitting terms page
+[2026-05-13 12:52:06] INFO: Verifying prefilled identity details
+[2026-05-13 12:52:07] INFO: Filling identity verification form
+[2026-05-14 17:31:12] INFO: Starting registration flow
+[2026-05-14 17:35:44] INFO: Starting registration flow
+[2026-05-14 17:35:45] INFO: Registering user: test+sender173544@xuno.co
+[2026-05-14 17:36:13] INFO: Verifying email OTP
+[2026-05-21 14:06:39] INFO: Starting registration flow
+[2026-05-21 14:06:39] INFO: Registering user: test+sender14637@xuno.co
+[2026-05-21 14:06:39] INFO: Verifying email OTP
+[2026-05-21 14:06:41] INFO: Setting account password
+[2026-05-21 14:06:43] INFO: Navigating to dashboard
+[2026-05-21 14:06:48] INFO: Verifying phone number: 7182457587
+[2026-05-21 14:06:50] INFO: Submitting phone OTP
+[2026-05-21 14:06:53] INFO: Registration flow completed successfully
+[2026-05-21 14:06:59] INFO: Opening KYC flow
+[2026-05-21 14:07:01] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:07:05] INFO: Validating all legal document links
+[2026-05-21 14:08:03] INFO: Opening KYC flow
+[2026-05-21 14:16:16] INFO: Starting registration flow
+[2026-05-21 14:16:16] INFO: Registering user: test+sender14162@xuno.co
+[2026-05-21 14:16:17] INFO: Verifying email OTP
+[2026-05-21 14:16:18] INFO: Setting account password
+[2026-05-21 14:16:19] INFO: Navigating to dashboard
+[2026-05-21 14:16:24] INFO: Verifying phone number: 4158847710
+[2026-05-21 14:16:26] INFO: Submitting phone OTP
+[2026-05-21 14:16:28] INFO: Registration flow completed successfully
+[2026-05-21 14:16:46] INFO: Opening KYC flow
+[2026-05-21 14:16:50] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:16:54] INFO: Validating all legal document links
+[2026-05-21 14:20:55] INFO: Starting registration flow
+[2026-05-21 14:20:56] INFO: Registering user: test+sender142054@xuno.co
+[2026-05-21 14:20:57] INFO: Verifying email OTP
+[2026-05-21 14:20:58] INFO: Setting account password
+[2026-05-21 14:20:59] INFO: Navigating to dashboard
+[2026-05-21 14:21:02] INFO: Verifying phone number: 6468832249
+[2026-05-21 14:21:04] INFO: Submitting phone OTP
+[2026-05-21 14:21:06] INFO: Registration flow completed successfully
+[2026-05-21 14:21:18] INFO: Opening KYC flow
+[2026-05-21 14:21:20] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:21:22] INFO: Validating all legal document links
+[2026-05-21 14:21:38] INFO: Opening KYC flow
+[2026-05-21 14:21:59] INFO: Starting registration flow
+[2026-05-21 14:23:18] INFO: Starting registration flow
+[2026-05-21 14:23:18] INFO: Registering user: test+sender14238@xuno.co
+[2026-05-21 14:23:19] INFO: Verifying email OTP
+[2026-05-21 14:23:20] INFO: Setting account password
+[2026-05-21 14:23:21] INFO: Navigating to dashboard
+[2026-05-21 14:23:24] INFO: Verifying phone number: 9178824569
+[2026-05-21 14:23:27] INFO: Submitting phone OTP
+[2026-05-21 14:23:29] INFO: Registration flow completed successfully
+[2026-05-21 14:23:44] INFO: Opening KYC flow
+[2026-05-21 14:23:49] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:23:52] INFO: Validating all legal document links
+[2026-05-21 14:26:19] INFO: Starting registration flow
+[2026-05-21 14:26:20] INFO: Registering user: test+sender14261@xuno.co
+[2026-05-21 14:26:21] INFO: Verifying email OTP
+[2026-05-21 14:26:22] INFO: Setting account password
+[2026-05-21 14:26:23] INFO: Navigating to dashboard
+[2026-05-21 14:26:27] INFO: Verifying phone number: 6468603891
+[2026-05-21 14:26:29] INFO: Submitting phone OTP
+[2026-05-21 14:26:31] INFO: Registration flow completed successfully
+[2026-05-21 14:26:46] INFO: Opening KYC flow
+[2026-05-21 14:26:52] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:26:59] INFO: Validating all legal document links
+[2026-05-21 14:35:19] INFO: Starting registration flow
+[2026-05-21 14:35:20] INFO: Registering user: test+sender143115@xuno.co
+[2026-05-21 14:35:21] INFO: Verifying email OTP
+[2026-05-21 14:35:22] INFO: Setting account password
+[2026-05-21 14:35:23] INFO: Navigating to dashboard
+[2026-05-21 14:35:53] INFO: Starting registration flow
+[2026-05-21 14:35:53] INFO: Registering user: test+sender143542@xuno.co
+[2026-05-21 14:35:54] INFO: Verifying email OTP
+[2026-05-21 14:35:55] INFO: Setting account password
+[2026-05-21 14:35:56] INFO: Navigating to dashboard
+[2026-05-21 14:36:00] INFO: Verifying phone number: 6463271646
+[2026-05-21 14:36:01] INFO: Submitting phone OTP
+[2026-05-21 14:36:04] INFO: Registration flow completed successfully
+[2026-05-21 14:36:18] INFO: Opening KYC flow
+[2026-05-21 14:36:24] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:36:26] INFO: Validating all legal document links
+[2026-05-21 14:36:50] INFO: Accepting terms and conditions
+[2026-05-21 14:36:52] INFO: Submitting terms page
+[2026-05-21 14:36:55] INFO: Verifying prefilled identity details
+[2026-05-21 14:37:06] INFO: Filling identity verification form
+[2026-05-21 14:52:11] INFO: Starting registration flow
+[2026-05-21 14:52:11] INFO: Registering user: test+sender145155@xuno.co
+[2026-05-21 14:52:12] INFO: Verifying email OTP
+[2026-05-21 14:52:13] INFO: Setting account password
+[2026-05-21 14:52:14] INFO: Navigating to dashboard
+[2026-05-21 14:52:18] INFO: Verifying phone number: 5163416504
+[2026-05-21 14:52:19] INFO: Submitting phone OTP
+[2026-05-21 14:52:22] INFO: Registration flow completed successfully
+[2026-05-21 14:52:55] INFO: Opening KYC flow
+[2026-05-21 14:53:03] INFO: Verifying Terms and Conditions page
+[2026-05-21 14:53:05] INFO: Validating all legal document links
+[2026-05-21 14:53:17] INFO: Accepting terms and conditions
+[2026-05-21 14:53:18] INFO: Submitting terms page
+[2026-05-21 14:53:21] INFO: Verifying prefilled identity details
+[2026-05-21 15:18:48] INFO: Starting registration flow
+[2026-05-21 15:18:49] INFO: Registering user: test+sender151839@xuno.co
+[2026-05-21 15:18:49] INFO: Verifying email OTP
+[2026-05-21 15:18:50] INFO: Setting account password
+[2026-05-21 15:18:51] INFO: Navigating to dashboard
+[2026-05-21 15:18:54] INFO: Verifying phone number: 2135092207
+[2026-05-21 15:18:57] INFO: Submitting phone OTP
+[2026-05-21 15:18:59] INFO: Registration flow completed successfully
+[2026-05-21 15:19:16] INFO: Opening KYC flow
+[2026-05-21 15:19:20] INFO: Verifying Terms and Conditions page
+[2026-05-21 15:19:23] INFO: Validating all legal document links
+[2026-05-21 15:19:45] INFO: Accepting terms and conditions
+[2026-05-21 15:19:47] INFO: Submitting terms page
+[2026-05-21 15:19:49] INFO: Verifying prefilled identity details
+[2026-05-21 15:24:15] INFO: Starting registration flow
+[2026-05-21 15:24:16] INFO: Registering user: test+sender15247@xuno.co
+[2026-05-21 15:24:17] INFO: Verifying email OTP
+[2026-05-21 15:24:18] INFO: Setting account password
+[2026-05-21 15:24:19] INFO: Navigating to dashboard
+[2026-05-21 15:24:23] INFO: Verifying phone number: 6465952115
+[2026-05-21 15:24:25] INFO: Submitting phone OTP
+[2026-05-21 15:24:27] INFO: Registration flow completed successfully
+[2026-05-21 15:24:47] INFO: Opening KYC flow
+[2026-05-21 15:24:51] INFO: Verifying Terms and Conditions page
+[2026-05-21 15:24:54] INFO: Validating all legal document links
+[2026-05-21 15:25:10] INFO: Accepting terms and conditions
+[2026-05-21 15:25:11] INFO: Submitting terms page
+[2026-05-21 15:25:12] INFO: Verifying prefilled identity details
+[2026-05-21 15:25:20] INFO: Filling identity verification form
+[2026-05-21 15:49:35] INFO: Starting registration flow
+[2026-05-21 15:49:37] INFO: Registering user: test+sender154920@xuno.co
+[2026-05-21 15:49:40] INFO: Verifying email OTP
+[2026-05-21 15:49:41] INFO: Setting account password
+[2026-05-21 15:49:42] INFO: Navigating to dashboard
+[2026-05-21 15:49:46] INFO: Verifying phone number: 6467038302
+[2026-05-21 15:49:48] INFO: Submitting phone OTP
+[2026-05-21 15:49:50] INFO: Registration flow completed successfully
+[2026-05-21 15:50:11] INFO: Opening KYC flow
+[2026-05-21 15:50:25] INFO: Verifying Terms and Conditions page
+[2026-05-21 15:50:31] INFO: Validating all legal document links
+[2026-05-21 15:50:57] INFO: Accepting terms and conditions
+[2026-05-21 15:50:58] INFO: Submitting terms page
+[2026-05-21 15:50:59] INFO: Verifying prefilled identity details
+[2026-05-21 15:51:06] INFO: Filling identity verification form
+[2026-05-21 16:19:39] INFO: Starting registration flow
+[2026-05-21 16:19:39] INFO: Registering user: test+sender161938@xuno.co
+[2026-05-21 16:19:40] INFO: Verifying email OTP
+[2026-05-21 16:19:41] INFO: Setting account password
+[2026-05-21 16:19:43] INFO: Navigating to dashboard
+[2026-05-21 16:19:46] INFO: Verifying phone number: 2137611884
+[2026-05-21 16:19:48] INFO: Submitting phone OTP
+[2026-05-21 16:19:50] INFO: Registration flow completed successfully
+[2026-05-21 16:20:01] INFO: Opening KYC flow
+[2026-05-21 16:20:03] INFO: Verifying Terms and Conditions page
+[2026-05-21 16:20:05] INFO: Validating all legal document links
+[2026-05-21 16:20:09] INFO: Accepting terms and conditions
+[2026-05-21 16:20:09] INFO: Submitting terms page
+[2026-05-21 16:20:10] INFO: Verifying prefilled identity details
+[2026-05-21 16:20:10] INFO: Filling identity verification form
+[2026-05-21 16:21:08] INFO: Opening KYC flow
+[2026-05-21 16:21:18] INFO: Starting registration flow
+[2026-05-21 16:21:28] INFO: Opening KYC flow
+[2026-05-21 16:22:36] INFO: Starting registration flow
+[2026-05-21 16:22:37] INFO: Registering user: test+sender162235@xuno.co
+[2026-05-21 16:22:38] INFO: Verifying email OTP
+[2026-05-21 16:22:39] INFO: Setting account password
+[2026-05-21 16:22:40] INFO: Navigating to dashboard
+[2026-05-21 16:22:43] INFO: Verifying phone number: 4156828368
+[2026-05-21 16:22:45] INFO: Submitting phone OTP
+[2026-05-21 16:22:47] INFO: Registration flow completed successfully
+[2026-05-21 16:56:13] INFO: Starting registration flow
+[2026-05-21 16:56:13] INFO: Registering user: test+sender16565@xuno.co
+[2026-05-21 16:56:15] INFO: Verifying email OTP
+[2026-05-21 16:56:16] INFO: Setting account password
+[2026-05-21 16:56:17] INFO: Navigating to dashboard
+[2026-05-21 16:56:20] INFO: Verifying phone number: 2125167283
+[2026-05-21 16:56:21] INFO: Submitting phone OTP
+[2026-05-21 16:56:27] INFO: Registration flow completed successfully
+[2026-05-21 16:56:48] INFO: Opening KYC flow
+[2026-05-21 16:56:53] INFO: Verifying Terms and Conditions page
+[2026-05-21 16:56:59] INFO: Validating all legal document links
+[2026-05-21 16:57:09] INFO: Accepting terms and conditions
+[2026-05-21 16:57:11] INFO: Submitting terms page
+[2026-05-21 16:57:12] INFO: Verifying prefilled identity details
+[2026-05-21 16:57:15] INFO: Filling identity verification form
+[2026-05-21 17:00:04] INFO: Starting registration flow
+[2026-05-21 17:00:05] INFO: Registering user: test+sender1703@xuno.co
+[2026-05-21 17:00:06] INFO: Verifying email OTP
+[2026-05-21 17:00:07] INFO: Setting account password
+[2026-05-21 17:00:08] INFO: Navigating to dashboard
+[2026-05-21 17:00:12] INFO: Verifying phone number: 4083048704
+[2026-05-21 17:00:13] INFO: Submitting phone OTP
+[2026-05-21 17:00:15] INFO: Registration flow completed successfully
+[2026-05-21 17:00:24] INFO: Opening KYC flow
+[2026-05-21 17:00:27] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:00:28] INFO: Validating all legal document links
+[2026-05-21 17:00:33] INFO: Accepting terms and conditions
+[2026-05-21 17:00:33] INFO: Submitting terms page
+[2026-05-21 17:00:33] INFO: Verifying prefilled identity details
+[2026-05-21 17:00:33] INFO: Filling identity verification form
+[2026-05-21 17:05:29] INFO: Starting registration flow
+[2026-05-21 17:05:29] INFO: Registering user: test+sender17528@xuno.co
+[2026-05-21 17:05:33] INFO: Verifying email OTP
+[2026-05-21 17:05:34] INFO: Setting account password
+[2026-05-21 17:05:34] INFO: Navigating to dashboard
+[2026-05-21 17:05:38] INFO: Verifying phone number: 6177092885
+[2026-05-21 17:05:40] INFO: Submitting phone OTP
+[2026-05-21 17:05:43] INFO: Registration flow completed successfully
+[2026-05-21 17:05:50] INFO: Opening KYC flow
+[2026-05-21 17:05:53] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:05:55] INFO: Validating all legal document links
+[2026-05-21 17:06:00] INFO: Accepting terms and conditions
+[2026-05-21 17:06:00] INFO: Submitting terms page
+[2026-05-21 17:06:00] INFO: Verifying prefilled identity details
+[2026-05-21 17:06:01] INFO: Filling identity verification form
+[2026-05-21 17:23:44] INFO: Starting registration flow
+[2026-05-21 17:23:45] INFO: Registering user: test+sender172343@xuno.co
+[2026-05-21 17:23:46] INFO: Verifying email OTP
+[2026-05-21 17:23:47] INFO: Setting account password
+[2026-05-21 17:23:48] INFO: Navigating to dashboard
+[2026-05-21 17:23:51] INFO: Verifying phone number: 3152554813
+[2026-05-21 17:23:52] INFO: Submitting phone OTP
+[2026-05-21 17:23:55] INFO: Registration flow completed successfully
+[2026-05-21 17:24:01] INFO: Opening KYC flow
+[2026-05-21 17:24:04] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:24:06] INFO: Validating all legal document links
+[2026-05-21 17:24:10] INFO: Accepting terms and conditions
+[2026-05-21 17:24:10] INFO: Submitting terms page
+[2026-05-21 17:24:10] INFO: Verifying prefilled identity details
+[2026-05-21 17:24:11] INFO: Filling identity verification form
+[2026-05-21 17:36:05] INFO: Starting registration flow
+[2026-05-21 17:36:06] INFO: Registering user: test+sender17364@xuno.co
+[2026-05-21 17:36:06] INFO: Verifying email OTP
+[2026-05-21 17:36:07] INFO: Setting account password
+[2026-05-21 17:36:08] INFO: Navigating to dashboard
+[2026-05-21 17:36:11] INFO: Verifying phone number: 3157308136
+[2026-05-21 17:36:13] INFO: Submitting phone OTP
+[2026-05-21 17:36:15] INFO: Registration flow completed successfully
+[2026-05-21 17:36:24] INFO: Opening KYC flow
+[2026-05-21 17:36:28] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:36:31] INFO: Validating all legal document links
+[2026-05-21 17:36:36] INFO: Accepting terms and conditions
+[2026-05-21 17:36:36] INFO: Submitting terms page
+[2026-05-21 17:36:36] INFO: Verifying prefilled identity details
+[2026-05-21 17:36:37] INFO: Filling identity verification form
+[2026-05-21 17:41:48] INFO: Starting registration flow
+[2026-05-21 17:41:49] INFO: Registering user: test+sender174148@xuno.co
+[2026-05-21 17:41:50] INFO: Verifying email OTP
+[2026-05-21 17:41:51] INFO: Setting account password
+[2026-05-21 17:41:52] INFO: Navigating to dashboard
+[2026-05-21 17:41:56] INFO: Verifying phone number: 2135325720
+[2026-05-21 17:41:58] INFO: Submitting phone OTP
+[2026-05-21 17:42:00] INFO: Registration flow completed successfully
+[2026-05-21 17:42:09] INFO: Opening KYC flow
+[2026-05-21 17:42:11] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:42:13] INFO: Validating all legal document links
+[2026-05-21 17:42:18] INFO: Accepting terms and conditions
+[2026-05-21 17:42:18] INFO: Submitting terms page
+[2026-05-21 17:42:19] INFO: Verifying prefilled identity details
+[2026-05-21 17:42:19] INFO: Filling identity verification form
+[2026-05-21 17:47:33] INFO: Starting registration flow
+[2026-05-21 17:47:33] INFO: Registering user: test+sender174732@xuno.co
+[2026-05-21 17:47:35] INFO: Verifying email OTP
+[2026-05-21 17:47:36] INFO: Setting account password
+[2026-05-21 17:47:37] INFO: Navigating to dashboard
+[2026-05-21 17:47:41] INFO: Verifying phone number: 2135608779
+[2026-05-21 17:47:42] INFO: Submitting phone OTP
+[2026-05-21 17:47:44] INFO: Registration flow completed successfully
+[2026-05-21 17:47:53] INFO: Opening KYC flow
+[2026-05-21 17:47:56] INFO: Verifying Terms and Conditions page
+[2026-05-21 17:47:58] INFO: Validating all legal document links
+[2026-05-21 17:48:03] INFO: Accepting terms and conditions
+[2026-05-21 17:48:03] INFO: Submitting terms page
+[2026-05-21 17:48:03] INFO: Verifying prefilled identity details
+[2026-05-21 17:48:04] INFO: Filling identity verification form
