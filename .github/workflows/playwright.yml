@@ -28,13 +28,19 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
-      - name: Verify Environment
+      - name: Check Environment File
         run: |
-          echo "BASE_URL=$BASE_URL"
-          ls -R configs
+          echo "----- ENV FILE -----"
+          cat configs/env/.env.qa
+
+      - name: Check BASE_URL
+        run: |
+          echo "----- BASE_URL -----"
+          grep BASE_URL configs/env/.env.qa
 
       - name: Create storage directory
         run: mkdir -p storage
+      
 
       - name: Run Playwright tests
         run: npx playwright test
