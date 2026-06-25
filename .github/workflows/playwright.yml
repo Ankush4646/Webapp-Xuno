@@ -28,10 +28,10 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
-      - name: Create .env file
+      - name: Verify Environment
         run: |
-          mkdir -p configs/env
-          echo "BASE_URL=${{ secrets.BASE_URL }}" > configs/env/.env.qa
+          echo "BASE_URL=$BASE_URL"
+          ls -R configs
 
       - name: Create storage directory
         run: mkdir -p storage
